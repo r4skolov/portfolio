@@ -426,3 +426,11 @@
     font-size: 18px;
     margin-bottom: 20px;
 }
+.about {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.about:hover a {
+  color: #d41010;
+}
